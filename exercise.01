@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> </title>
+</head>
+<body>
+<h1 align="center">My first heading </h1><br>
+<p> my first paragraph <p><br>
+<h2 style="color":"red">this is heading 2 </h2><br>
+<a href="this is a link"> google.lk </a><br>
+<img src="/home/ukistu01/Pictures/Screenshot from 2017-11-07 11-39-31.png" alt="black.jpg" style=width:"10%";height:"25%"><br>
+<pre> uki     is    stepping
+      stone
+              to    tech
+                    life</pre><br>
+<b> UKI </b>
+<i> UKI </i>
+21<sup>st</sup>birthday
+h<sub>2</sub>o
+x<sup>2</sup>+y<sup>2</sup>=z<sup>2</sub>
+<del>UKI</del>
+<dl>
+  <dt>computer</dt>
+  <dd>hard ware</dd>
+  <dd>soft ware</dd>
+</dl>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+<ol>
+  <li>ol</li>
+  <ul type="disc">
+    <li>tamil</li>
+    <ul type="square">
+      <li>tl</li>
+      <li>science</li>
+      <li>maths</li>
+    </ul>
+    <li>al</li>
+    <ul type="circle">
+      <li>bio</li>
+      <li>maths</li>
+      <li>comm</li>
+    </ul>
+  </ol>
+
+</body>
+<html>
